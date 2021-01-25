@@ -92,17 +92,6 @@
          "id":2,
          "name":"bottom",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"0.07"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onAction"
-                }],
          "type":"tilelayer",
          "visible":false,
          "width":46,
