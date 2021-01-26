@@ -96,7 +96,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Pause Clope"
+                 "value":"Pause_Clope"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -119,7 +119,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"canap\u00e9"
+                 "value":"Chill"
                 }, 
                 {
                  "name":"jitsiTrigger",
